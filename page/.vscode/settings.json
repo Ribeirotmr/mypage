@@ -1,0 +1,12 @@
+{
+    "tailwindCSS.validate": true,
+    "tailwindCSS.experimental.classRegex": [
+
+    ],
+    "tailwindCSS.inspectPort": null,
+    "tailwindCSS.experimental.configFile": null,
+    "tailwindCSS.suggestions": true
+    
+
+}
+
